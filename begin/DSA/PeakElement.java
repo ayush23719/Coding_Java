@@ -1,4 +1,4 @@
-// { Driver Code Starts
+// { Driver Code Start
     import java.util.*;
     class PeakElement{
         public static void main(String[] args){
